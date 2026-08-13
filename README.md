@@ -2,8 +2,6 @@
 
 This repository is a compilation of all the Leetcode problems I have solved. It serves as a personal archive to track my progress, document my implementations in C++, and refine my understanding of various data structures and algorithms.
 
-My Leetcode Profile -> https://leetcode.com/u/0112358CSGO/
-
 ## Repository Structure
 
 Solutions are organized by topic/pattern:
